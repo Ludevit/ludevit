@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ludevit
+- 👀 I’m interested in learning Cloud and Web Development
+- 🌱 I’m currently learning Svelte JS
+- 💞️ I’m looking to commit to Open Source projects
